@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">ButtonNavApp</string>
+    <string name="title_home">Movies</string>
+    <string name="title_dashboard">TV Series</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <string-array name="judul_movie">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Once Upon A Deadpool</item>
+        <item>How To Train Your Dragon: The Hidden World</item>
+        <item>Dragonball</item>
+    </string-array>
+
+    <string-array name="desc_movie">
+        <item>
+            Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
+        </item>
+        <item>
+            Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.
+        </item>
+        <item>
+            As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
+        </item>
+        <item>
+            Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.
+        </item>
+        <item>
+            Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
+        </item>
+        <item>
+            On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
+        </item>
+        <item>
+            Between personal obligations and training for his next big fight against an opponent with ties to his family\'s past, Adonis Creed is up against the challenge of his life.
+        </item>
+        <item>
+            A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder and zero F\'s.
+        </item>
+        <item>
+            As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless\’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup\’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
+        </item>
+        <item>
+            Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called \'Broly\' who they\'ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what\'s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
+        </item>
+    </string-array>
+
+    <array name="foto_movie">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+    </array>
+
+    <string-array name="judul_tv">
+        <item>Amazing Stories</item>
+        <item>The Blacklist</item>
+        <item>Danger Force</item>
+        <item>Devs</item>
+        <item>Elite</item>
+        <item>My Hero Academia</item>
+        <item>Rick And Morty</item>
+        <item>Sherlock</item>
+        <item>The Simpsons</item>
+        <item>Westworld</item>
+    </string-array>
+
+    <string-array name="desc_tv">
+        <item>
+            Each episode transports the audience to worlds of wonder through the lens of today\’s most imaginative filmmakers, directors and writers. A reimagining of the original anthology series by Steven Spielberg.
+        </item>
+        <item>
+            Raymond \"Red\" Reddington, one of the FBI\'s most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he\'s made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.
+        </item>
+        <item>
+            Captain Man has a new crew of superhero sidekicks - Danger Force. Captain Man and Schwoz create a fake school to train the kids to harness their uncontrollable superpowers to fight crime.
+        </item>
+        <item>
+            Young computer engineer Lily Chan investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the murder of her boyfriend.
+        </item>
+        <item>
+            When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.
+        </item>
+        <item>
+            In a world where eighty percent of the population has some kind of super-powered Quirk, Izuku was unlucky enough to be born completely normal. But that won\’t stop him from enrolling in a prestigious hero academy. Now, he\’ll get his first taste of brutal rivalry from other schools as he braves the cutthroat, no-holds-barred provisional license exam.
+        </item>
+        <item>
+            Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty\'s already unstable family life, these events cause Morty much distress at home and school.        </item>
+        <item>
+            A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.
+        </item>
+        <item>
+            Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.        </item>
+        <item>
+            A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.        </item>
+    </string-array>
+
+    <array name="foto_tv">
+        <item>@drawable/poster_amazingstories</item>
+        <item>@drawable/poster_blacklist</item>
+        <item>@drawable/poster_dangerforce</item>
+        <item>@drawable/poster_devs</item>
+        <item>@drawable/poster_elite</item>
+        <item>@drawable/poster_hero</item>
+        <item>@drawable/poster_rickmorty</item>
+        <item>@drawable/poster_sherlock</item>
+        <item>@drawable/poster_simpsons</item>
+        <item>@drawable/poster_westworld</item>
+    </array>
+
+</resources>

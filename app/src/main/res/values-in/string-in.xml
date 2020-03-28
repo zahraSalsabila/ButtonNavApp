@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ButtonNavApp</string>
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Serial TV</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+
+    <string-array name="judul_movie">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Once Upon A Deadpool</item>
+        <item>How To Train Your Dragon: The Hidden World</item>
+        <item>Dragonball</item>
+    </string-array>
+
+    <string-array name="desc_movie">
+        <item>
+            Seorang bintang musik country yang karirnya mulai memudar, Jackson Maine (Bradley Cooper) menemukan sebuah talenta yang sangat berbakat di dalam diri dari seorang musisi muda bernama Ally (Lady Gaga). Maine berhasil mengorbitkan Ally menjadi seorang bintang muda yang menjanjikan. Namun keduanya terlibat hubungan yang lebih jauh dari sekedar mentor dan anak didik. Seiring dengan meroketnya karir dari Ally dan dirinya, Maine mengalami dilema mengenai masalah ini.        </item>
+        <item>
+            Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati takhta.
+        </item>
+        <item>
+            Karena Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh seorang pahlawan, bahaya baru telah muncul dari bayangan kosmik: Thanos. Seorang lalim penghujatan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan kehendak memutar pada semua realitas. Segala sesuatu yang telah diperjuangkan oleh Avengers telah berkembang hingga saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.
+        </item>
+        <item>
+            Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.
+        </item>
+        <item>
+            Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock \'n\' roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.
+        </item>
+        <item>
+            Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.
+        </item>
+        <item>
+            Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.
+        </item>
+        <item>
+            Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 rendition of Deadpool 2 sebagai cerita Princess Bride-esque yang penuh dengan keajaiban, keajaiban dan nol F.
+        </item>
+        <item>
+            Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang tak teruji dan sukar ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.
+        </item>
+        <item>
+            Bumi damai setelah Turnamen Kekuasaan. Menyadari bahwa alam semesta masih memiliki banyak orang yang lebih kuat untuk dilihat, Goku menghabiskan seluruh hari pelatihannya untuk mencapai ketinggian yang lebih besar. Lalu suatu hari, Goku dan Vegeta dihadapkan pada seorang Saiyan yang disebut \'Broly\' yang belum pernah mereka lihat sebelumnya. Orang-orang Saiyan seharusnya hampir sepenuhnya musnah dalam kehancuran Planet Vegeta, jadi apa yang dilakukan orang ini di Bumi? Pertemuan antara ketiga Saiyan yang telah mengikuti takdir yang sangat berbeda ini berubah menjadi pertempuran yang luar biasa, dengan bahkan Frieza (kembali dari Neraka) terperangkap dalam campuran.
+        </item>
+    </string-array>
+
+    <array name="foto_movie">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+    </array>
+
+    <string-array name="judul_tv">
+        <item>Amazing Stories</item>
+        <item>The Blacklist</item>
+        <item>Danger Force</item>
+        <item>Devs</item>
+        <item>Elite</item>
+        <item>My Hero Academia</item>
+        <item>Rick And Morty</item>
+        <item>Sherlock</item>
+        <item>The Simpsons</item>
+        <item>Westworld</item>
+    </string-array>
+
+    <string-array name="desc_tv">
+        <item>
+            Setiap episode mengangkut penonton ke dunia keajaiban melalui lensa pembuat film, sutradara dan penulis paling imajinatif saat ini. Konsep ulang seri antologi asli oleh Steven Spielberg.
+        </item>
+        <item>
+            Raymond \"Red\" Reddington, salah satu buron FBI yang paling dicari, menyerah secara langsung di Markas Besar FBI di Washington, D.C. Dia mengklaim bahwa dia dan FBI memiliki kepentingan yang sama: menjatuhkan penjahat dan teroris berbahaya. Dalam dua dekade terakhir, dia membuat daftar penjahat dan teroris yang paling berarti tetapi FBI tidak dapat menemukan karena tidak tahu mereka ada. Reddington menyebut ini \"Daftar Hitam\". Reddington akan bekerja sama, tetapi menegaskan bahwa ia akan berbicara hanya dengan Elizabeth Keen, seorang profiler pemula FBI.
+        </item>
+        <item>
+            Kapten Man memiliki kru sahabat karib superhero baru - Danger Force. Kapten Man dan Schwoz membuat sekolah palsu untuk melatih anak-anak memanfaatkan kekuatan super mereka yang tak terkendali untuk melawan kejahatan.
+        </item>
+        <item>
+            Insinyur komputer muda Lily Chan menyelidiki divisi pengembangan rahasia dari majikannya, sebuah perusahaan teknologi mutakhir yang berbasis di San Francisco, yang ia yakini berada di balik pembunuhan pacarnya.
+        </item>
+        <item>
+            Ketika tiga anak kelas pekerja mendaftar di sekolah paling eksklusif di Spanyol, bentrokan antara siswa kaya dan miskin menyebabkan tragedi.
+        </item>
+        <item>
+            Di dunia di mana delapan puluh persen dari populasi memiliki semacam Quirk bertenaga super, Izuku cukup beruntung untuk dilahirkan sepenuhnya normal. Tapi itu tidak akan menghentikannya untuk mendaftar di akademi pahlawan bergengsi. Sekarang, dia akan merasakan persaingan brutal pertamanya dari sekolah-sekolah lain saat dia berani menghadapi ujian lisensi sementara yang kejam, tanpa larangan.
+        </item>
+        <item>
+            Rick adalah orang tua yang tidak seimbang secara mental tetapi berbakat secara ilmiah yang baru-baru ini terhubung kembali dengan keluarganya. Dia menghabiskan sebagian besar waktunya dengan melibatkan cucunya yang muda, Morty, dalam petualangan berbahaya dan aneh di luar angkasa dan alam semesta alternatif. Ditambah dengan kehidupan keluarga Morty yang sudah tidak stabil, peristiwa-peristiwa ini menyebabkan Morty sangat tertekan di rumah dan sekolah.
+        </item>
+        <item>
+            Pembaruan modern menemukan detektif terkenal dan mitra dokternya memecahkan kejahatan di London abad ke-21.
+        </item>
+        <item>
+            Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.
+        </item>
+        <item>
+            Pengembaraan kelam tentang fajar kesadaran buatan dan evolusi dosa. Terletak di persimpangan masa depan yang dekat dan masa lalu yang dibayangkan ulang, itu mengeksplorasi dunia di mana setiap selera manusia, tidak peduli seberapa mulia atau bejatnya, dapat dimanjakan.
+        </item>
+    </string-array>
+
+    <array name="foto_tv">
+        <item>@drawable/poster_amazingstories</item>
+        <item>@drawable/poster_blacklist</item>
+        <item>@drawable/poster_dangerforce</item>
+        <item>@drawable/poster_devs</item>
+        <item>@drawable/poster_elite</item>
+        <item>@drawable/poster_hero</item>
+        <item>@drawable/poster_rickmorty</item>
+        <item>@drawable/poster_sherlock</item>
+        <item>@drawable/poster_simpsons</item>
+        <item>@drawable/poster_westworld</item>
+    </array>
+
+</resources>
